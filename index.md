@@ -2,5 +2,5 @@
 
 David Jennings
 
-* [Tests](./reports/tests/tests/)
-* [JavaDoc](./reports/javadoc/)
+* [Tests](./tests/tests/)
+* [JavaDoc](./javadoc/)
